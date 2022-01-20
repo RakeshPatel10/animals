@@ -1,4 +1,6 @@
-rusty 
-blue 
-scout 
+rusty
+blue
+scout
 monty mocka
+jorg
+pekka
